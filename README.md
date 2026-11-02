@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Huihao-Feng/Huihao-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
