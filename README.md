@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Huihao Feng
+
+**M.S. Student in Software Engineering**  
+Central China Normal University, Wuhan, China
+
+## About Me
+
+I am a master's student in Software Engineering at Central China Normal University. My research interests include computer vision, generative models, and multimedia content security.
+
+## Research Interests
+
+- Computer Vision
+- Diffusion and Generative Models
+- Image Watermarking and Steganography
+- Multimedia Content Security
+
+## Contact
+
+- **Email:** huihaofeng@mails.ccnu.edu.cn
+- **GitHub:** [Huihao-Feng](https://github.com/Huihao-Feng)
+
